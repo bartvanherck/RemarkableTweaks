@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1404px" height="1872px" viewBox="0 0 1404 1872" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<defs>
+    <g id="Header">
+        <line x1="0" y1="100" x2="1404" y2="100" stroke="black" stroke-width="8" fill="none" />
+    </g>
+	<g id="lineAndBox">
+	    <line x1="100" y1="55" x2="1404" y2="55" stroke="black" stroke-width="2" fill="none" />
+		<rect x="0" y="0" width="55" height="55" stroke="black" stroke-width="2" fill="none" />
+	</g>
+</defs>
+
+<use xlink:href="#Header" x="0" y="0" />
+<use xlink:href="#lineAndBox" x="84.5" y="170" />
+<use xlink:href="#lineAndBox" x="84.5" y="270" />
+<use xlink:href="#lineAndBox" x="84.5" y="370" />
+<use xlink:href="#lineAndBox" x="84.5" y="470" />
+<use xlink:href="#lineAndBox" x="84.5" y="570" />
+<use xlink:href="#lineAndBox" x="84.5" y="670" />
+<use xlink:href="#lineAndBox" x="84.5" y="770" />
+<use xlink:href="#lineAndBox" x="84.5" y="870" />
+<use xlink:href="#lineAndBox" x="84.5" y="970" />
+<use xlink:href="#lineAndBox" x="84.5" y="1070" />
+<use xlink:href="#lineAndBox" x="84.5" y="1170" />
+<use xlink:href="#lineAndBox" x="84.5" y="1270" />
+<use xlink:href="#lineAndBox" x="84.5" y="1370" />
+<use xlink:href="#lineAndBox" x="84.5" y="1470" />
+<use xlink:href="#lineAndBox" x="84.5" y="1570" />
+<use xlink:href="#lineAndBox" x="84.5" y="1670" />
+<use xlink:href="#lineAndBox" x="84.5" y="1770" />
+
+<rect x="0" y="0" width="1404" height="1872" stroke="black" stroke-width="10" fill="none"/>
+
+</svg>
