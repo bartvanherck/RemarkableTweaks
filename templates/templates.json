@@ -596,6 +596,14 @@
         "Life/organize",
         "Lines"
       ]
+    },
+    {
+      "name": "Meeting",
+      "filename": "Meeting",
+      "iconCode": "\ue997",
+      "categories": [
+        "Life/organize"
+      ]
     }
   ]
 }
